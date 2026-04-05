@@ -1,0 +1,1 @@
+package com.zorvyn.financebackend.constants;public final class HeaderConstants {    public static final String USER_ID = "X-User-Id";    private HeaderConstants() {    }}

@@ -1,0 +1,1 @@
+package com.zorvyn.financebackend.util;import java.time.LocalDate;import java.time.YearMonth;public final class ServerDateUtil {    private ServerDateUtil() {    }    public static String toMonth(LocalDate date) {        return date == null ? "" : YearMonth.from(date).toString();    }}

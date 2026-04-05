@@ -1,0 +1,1 @@
+package com.zorvyn.financebackend.util;import java.time.LocalDate;public final class CommonDateUtil {    private CommonDateUtil() {    }    public static String toText(LocalDate date) {        return date == null ? "" : date.toString();    }}
