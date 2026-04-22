@@ -1,4 +1,4 @@
-# Zorvyn Finance Data Processing and Access Control Backend
+# Data Processing and Access Control Backend
 
 This project is my submission for the Zorvyn Backend Developer Intern assignment.
 
